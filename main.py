@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO)
 #set logging level of nextcord
 logging.getLogger('nextcord').setLevel(logging.ERROR)
 
-TESTING_GUILD_ID = 822103669007712306  # Replace with your guild ID
+TESTING_GUILD_ID = 1190771563625201724  # Replace with your guild ID
 
 # member intent
 intents = nextcord.Intents.default()
